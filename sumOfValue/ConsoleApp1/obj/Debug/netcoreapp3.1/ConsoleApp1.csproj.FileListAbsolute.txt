@@ -1,0 +1,14 @@
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\dotnet\sumOfValue\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\dotnet\sumOfValue\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
