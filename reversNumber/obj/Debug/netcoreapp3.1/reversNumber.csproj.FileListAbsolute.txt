@@ -1,0 +1,14 @@
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.exe
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.deps.json
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.runtimeconfig.json
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.runtimeconfig.dev.json
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.dll
+F:\dotnet\reversNumber\reversNumber\bin\Debug\netcoreapp3.1\reversNumber.pdb
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.csproj.AssemblyReference.cache
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.AssemblyInfoInputs.cache
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.AssemblyInfo.cs
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.csproj.CoreCompileInputs.cache
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.dll
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.pdb
+F:\dotnet\reversNumber\reversNumber\obj\Debug\netcoreapp3.1\reversNumber.genruntimeconfig.cache
