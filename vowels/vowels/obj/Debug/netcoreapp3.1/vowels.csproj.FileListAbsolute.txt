@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.exe
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.deps.json
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.runtimeconfig.json
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.dll
+C:\Users\Ajith\source\repos\vowels\vowels\bin\Debug\netcoreapp3.1\vowels.pdb
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.dll
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.pdb
+C:\Users\Ajith\source\repos\vowels\vowels\obj\Debug\netcoreapp3.1\vowels.genruntimeconfig.cache
