@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.exe
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.deps.json
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.runtimeconfig.json
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.dll
+C:\Users\Ajith\source\repos\number123\number123\bin\Debug\netcoreapp3.1\number123.pdb
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.dll
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.pdb
+C:\Users\Ajith\source\repos\number123\number123\obj\Debug\netcoreapp3.1\number123.genruntimeconfig.cache
