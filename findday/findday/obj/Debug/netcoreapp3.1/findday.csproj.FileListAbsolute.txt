@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.exe
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.deps.json
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.runtimeconfig.json
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.dll
+C:\Users\Ajith\source\repos\findday\findday\bin\Debug\netcoreapp3.1\findday.pdb
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.dll
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.pdb
+C:\Users\Ajith\source\repos\findday\findday\obj\Debug\netcoreapp3.1\findday.genruntimeconfig.cache
