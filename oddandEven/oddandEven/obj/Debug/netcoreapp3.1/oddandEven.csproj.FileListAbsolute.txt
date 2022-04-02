@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.exe
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.deps.json
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.runtimeconfig.json
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.dll
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\bin\Debug\netcoreapp3.1\oddandEven.pdb
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.dll
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.pdb
+C:\Users\Ajith\source\repos\oddandEven\oddandEven\obj\Debug\netcoreapp3.1\oddandEven.genruntimeconfig.cache
