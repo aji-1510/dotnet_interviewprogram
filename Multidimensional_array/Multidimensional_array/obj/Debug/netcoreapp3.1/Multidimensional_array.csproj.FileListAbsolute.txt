@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.exe
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.deps.json
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.runtimeconfig.json
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.dll
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\bin\Debug\netcoreapp3.1\Multidimensional_array.pdb
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.dll
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.pdb
+C:\Users\Ajith\source\repos\Multidimensional_array\Multidimensional_array\obj\Debug\netcoreapp3.1\Multidimensional_array.genruntimeconfig.cache
