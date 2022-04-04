@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.exe
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.deps.json
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.runtimeconfig.json
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.dll
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\bin\Debug\netcoreapp3.1\numReferenceException.pdb
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.dll
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.pdb
+C:\Users\Ajith\source\repos\numReferenceException\numReferenceException\obj\Debug\netcoreapp3.1\numReferenceException.genruntimeconfig.cache
