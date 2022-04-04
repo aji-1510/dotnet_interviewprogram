@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.exe
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.deps.json
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.runtimeconfig.json
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.dll
+C:\Users\Ajith\source\repos\array_sort\array_sort\bin\Debug\netcoreapp3.1\array_sort.pdb
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.dll
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.pdb
+C:\Users\Ajith\source\repos\array_sort\array_sort\obj\Debug\netcoreapp3.1\array_sort.genruntimeconfig.cache
