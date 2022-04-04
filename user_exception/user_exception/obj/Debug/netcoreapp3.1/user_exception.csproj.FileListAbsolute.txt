@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.exe
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.deps.json
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.runtimeconfig.json
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.dll
+C:\Users\Ajith\source\repos\user_exception\user_exception\bin\Debug\netcoreapp3.1\user_exception.pdb
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.dll
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.pdb
+C:\Users\Ajith\source\repos\user_exception\user_exception\obj\Debug\netcoreapp3.1\user_exception.genruntimeconfig.cache
