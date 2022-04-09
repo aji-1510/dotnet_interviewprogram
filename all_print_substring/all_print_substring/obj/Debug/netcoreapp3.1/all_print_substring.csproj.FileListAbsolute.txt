@@ -1,0 +1,13 @@
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.exe
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.deps.json
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.runtimeconfig.json
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.dll
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\bin\Debug\netcoreapp3.1\all_print_substring.pdb
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.dll
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.pdb
+C:\Users\Ajith\source\repos\all_print_substring\all_print_substring\obj\Debug\netcoreapp3.1\all_print_substring.genruntimeconfig.cache
