@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.exe
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.deps.json
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.runtimeconfig.json
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.dll
+C:\Users\Ajith\source\repos\power_sum\power_sum\bin\Debug\netcoreapp3.1\power_sum.pdb
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.dll
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.pdb
+C:\Users\Ajith\source\repos\power_sum\power_sum\obj\Debug\netcoreapp3.1\power_sum.genruntimeconfig.cache
