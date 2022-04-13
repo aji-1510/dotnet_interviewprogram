@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.exe
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.deps.json
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.runtimeconfig.json
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.dll
+C:\Users\Ajith\source\repos\sum_function\sum_function\bin\Debug\netcoreapp3.1\sum_function.pdb
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.dll
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.pdb
+C:\Users\Ajith\source\repos\sum_function\sum_function\obj\Debug\netcoreapp3.1\sum_function.genruntimeconfig.cache
