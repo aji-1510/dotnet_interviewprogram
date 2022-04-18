@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.exe
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.deps.json
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.runtimeconfig.json
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.dll
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\bin\Debug\netcoreapp3.1\sumOFfirstTennumber.pdb
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.dll
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.pdb
+C:\Users\Ajith\source\repos\sumOFfirstTennumber\sumOFfirstTennumber\obj\Debug\netcoreapp3.1\sumOFfirstTennumber.genruntimeconfig.cache
