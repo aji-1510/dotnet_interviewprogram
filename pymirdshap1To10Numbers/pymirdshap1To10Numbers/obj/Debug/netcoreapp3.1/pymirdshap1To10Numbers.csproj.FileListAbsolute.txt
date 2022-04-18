@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.exe
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.deps.json
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.runtimeconfig.json
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.dll
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\bin\Debug\netcoreapp3.1\pymirdshap1To10Numbers.pdb
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.dll
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.pdb
+C:\Users\Ajith\source\repos\pymirdshap1To10Numbers\pymirdshap1To10Numbers\obj\Debug\netcoreapp3.1\pymirdshap1To10Numbers.genruntimeconfig.cache
