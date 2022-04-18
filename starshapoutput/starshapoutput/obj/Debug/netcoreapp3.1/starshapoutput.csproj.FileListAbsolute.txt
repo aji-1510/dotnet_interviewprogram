@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.exe
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.deps.json
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.runtimeconfig.json
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.dll
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\bin\Debug\netcoreapp3.1\starshapoutput.pdb
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.dll
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.pdb
+C:\Users\Ajith\source\repos\starshapoutput\starshapoutput\obj\Debug\netcoreapp3.1\starshapoutput.genruntimeconfig.cache
