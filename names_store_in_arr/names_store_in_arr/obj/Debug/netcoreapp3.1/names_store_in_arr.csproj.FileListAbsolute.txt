@@ -1,0 +1,14 @@
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.csproj.AssemblyReference.cache
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.exe
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.deps.json
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.runtimeconfig.json
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.dll
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\bin\Debug\netcoreapp3.1\names_store_in_arr.pdb
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.dll
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.pdb
+C:\Users\Ajith\source\repos\names_store_in_arr\names_store_in_arr\obj\Debug\netcoreapp3.1\names_store_in_arr.genruntimeconfig.cache
