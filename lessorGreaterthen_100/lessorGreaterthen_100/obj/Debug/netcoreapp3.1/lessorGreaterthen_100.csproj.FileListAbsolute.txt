@@ -1,0 +1,13 @@
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.exe
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.deps.json
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.runtimeconfig.json
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.runtimeconfig.dev.json
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.dll
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\bin\Debug\netcoreapp3.1\lessorGreaterthen_100.pdb
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.AssemblyInfoInputs.cache
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.AssemblyInfo.cs
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.csproj.CoreCompileInputs.cache
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.dll
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.pdb
+C:\Users\Ajith\source\repos\lessorGreaterthen_100\lessorGreaterthen_100\obj\Debug\netcoreapp3.1\lessorGreaterthen_100.genruntimeconfig.cache
