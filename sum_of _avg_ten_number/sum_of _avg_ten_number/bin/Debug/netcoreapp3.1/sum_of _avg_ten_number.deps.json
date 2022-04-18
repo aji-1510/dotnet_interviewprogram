@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sum_of _avg_ten_number/1.0.0": {
+        "runtime": {
+          "sum_of _avg_ten_number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sum_of _avg_ten_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
